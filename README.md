@@ -10,7 +10,7 @@ See the [demo video](media/VRvideo.mp4) for a complete run-through of the game.
 - Haptic feedback (controller vibrations)
 - physical locomotion (i.e. real-world movement)
 - 3D audio 
-- We engineered and implemented **flying locomotion** by wing flapping, based of fluid dynamics equations : [code](Assets⁩/Scripts/FlyingExp⁩/FlyingExp.cs) and [here](⁨Assets⁩/Scripts/FlyingExp⁩/GetDragForce.cs)
+- We engineered and implemented **flying locomotion** by wing flapping, based of fluid dynamics equations : [code](Assets⁩/Scripts/FlyingExp⁩/FlyingExp.cs) and [here](⁨https://github.com/BenjBarral/VirtualReality-EscapeRoomGame/blob/master/Assets/Scripts/Flying%20Exp/FlyingExp.cs)
 
 ## System requirements
 Unity 2018.2. or later.
